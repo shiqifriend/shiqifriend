@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi friend 👋
 Hi！ i am shiqi
 A Front-end infrastructure and engineering efficiency developer.😊
 
