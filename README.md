@@ -1,5 +1,5 @@
 ### Hi friend 👋
-Hi！ i am shiqi
+ I am shiqi.
 
 A Front-end infrastructure and engineering efficiency developer.😊
 
