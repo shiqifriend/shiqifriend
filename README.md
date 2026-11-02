@@ -1,6 +1,6 @@
 ### Hi friend 👋
  I am shiqi.
-A Front-end infrastructure and engineering efficiency developer.😊
+A Full-stack infrastructure and engineering efficiency developer.😊
 
 Hello，我是十七，一名热爱技术的程序员，毕业于河北大学(本科)
 
