@@ -5,7 +5,7 @@ A Full-stack infrastructure and engineering efficiency developer.😊
 Hello，我是十七，一名热爱技术的程序员，毕业于河北大学(本科)
 
 - 这是我的掘金：[点击进入](https://juejin.cn/user/1306665624546712)
-- 这是我的个人语雀博客：[点击进入](https://www.yuque.com/beiyu-gyu5y)
+- CSDN：[点击进入](https://blog.csdn.net/m0_65335111)
   
 
 <!--
